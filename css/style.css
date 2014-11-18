@@ -1,0 +1,125 @@
+	::selection{ background-color: #E13300; color: white; }
+	::moz-selection{ background-color: #E13300; color: white; }
+	::webkit-selection{ background-color: #E13300; color: white; }
+
+	body {
+		background-color: #fff;
+		margin: 40px;
+		font: 13px/20px normal Helvetica, Arial, sans-serif;
+		color: #4F5155;
+		
+	}
+
+	a {
+		color: #003399;
+		background-color: transparent;
+		font-weight: normal;
+	}
+
+	h1 {
+		color: #444;
+		background-color: transparent;
+		border-bottom: 1px solid #D0D0D0;
+		font-size: 19px;
+		font-weight: normal;
+		margin: 0 0 14px 0;
+		padding: 14px 15px 10px 15px;
+	}
+
+	#body{
+	margin: 0 15px 0 15px;
+	/*border:1px solid black; */
+	/*float:left; */
+	}
+/*	#sms-api{
+	border:1px solid black; 
+	width:500px;
+	margin-left:600px;
+	height:263px;
+	} */
+	p.footer{
+		text-align: right;
+		font-size: 11px;
+		border-top: 1px solid #D0D0D0;
+		line-height: 32px;
+		padding: 0 10px 0 10px;
+		margin: 20px 0 0 0;
+	}
+	
+	#container{
+		margin: 10px;
+		border: 1px solid #D0D0D0;
+		-webkit-box-shadow: 0 0 8px #D0D0D0;
+		
+	}
+	div h1{ text-align: center;}
+	.line{
+		
+		background-color: #f9f9f9;
+		border: 1px solid #D0D0D0;
+		color: #002166;
+		display: block;
+		margin: 14px 0 14px 0;
+		padding: 12px 10px 12px 10px;
+		width: 420px;
+	}
+
+.line span{
+    margin: 30px;
+	}
+#regs{
+		width: 160px;
+		height: 35px;
+		cursor: pointer;
+		margin-left:50px;
+	}
+#reset{
+		width: 160px;
+		height: 35px;
+		cursor: pointer;
+		margin-left:50px;
+}	
+.tbx{
+		position: relative;
+		margin-left: 20px;
+		width:175px; 
+	}
+.tbxc{
+		position: relative;
+		margin-left: 20px;
+		width:175px; 
+	}	
+.lines{
+		
+		background-color: #f9f9f9;
+		border: 1px solid #D0D0D0;
+		color: #002166;
+		display: block;
+		margin: 14px 0 14px 0;
+		padding: 12px 10px 12px 10px;
+		width: 500px;
+	}
+.liness{
+		
+		background-color: #f9f9f9;
+		border: 1px solid #D0D0D0;
+		color: #002166;
+		display: block;
+		margin: 14px 0 14px 0;
+		padding: 12px 10px 12px 10px;
+		width: 250px;
+	}
+	
+.lines span{
+    margin: 10px;
+	}
+
+.lines table{
+	width: 100%;
+}	
+.lines table .lables{
+	width: 30%;
+}
+#vizitPlace td{
+border-bottom:2px dashed silver; 
+}

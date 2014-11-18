@@ -1,0 +1,666 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"at",
+				"atp"
+			],
+			[
+				"str",
+				"str_regions"
+			],
+			[
+				"result",
+				"result_array"
+			],
+			[
+				"ac",
+				"activityTourPackages"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"mssql_",
+				"mssql_fetch_array"
+			],
+			[
+				"mssql",
+				"mssql_query"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"d",
+				"dashed"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"lin",
+				"link_url"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"w",
+				"white-space"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"in_a",
+				"in_array"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql_n",
+				"mysql_num_rows"
+			],
+			[
+				"chi",
+				"childStatusNot"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"bord",
+				"border"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/controllers/operator.php",
+			"settings":
+			{
+				"buffer_size": 4841,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/contents/tourPackage_view.php",
+			"settings":
+			{
+				"buffer_size": 4906,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/all_model.php",
+			"settings":
+			{
+				"buffer_size": 3713,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"seting",
+				"Preferences: Settings - User"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/crm/application/views/contents/resultSearch_view.php",
+		"/C/xampp/htdocs/crm/application/views/main_view.php",
+		"/C/xampp/htdocs/crm/application/config/database.php",
+		"/C/xampp/htdocs/crm/application/libraries/template.php",
+		"/D/srv.lol/rusdoc_biz/index.php",
+		"/D/srv.lol/rusdoc_biz/reklama.php",
+		"/D/srv.lol/rusdoc_biz/baners11.php",
+		"/D/srv.lol/rusdoc_biz/baners1.php",
+		"/D/srv.lol/rusdoc_biz/baners0.php",
+		"/D/srv.lol/rusdoc_biz/baners.php",
+		"/D/srv.lol/rusdoc_biz/ystavslujb.php",
+		"/D/srv.lol/rusdoc_biz/ystavoorganization.php",
+		"/D/srv.lol/rusdoc_biz/ystavooo.php",
+		"/D/srv.lol/rusdoc_biz/ystavzao.php",
+		"/D/srv.lol/rusdoc_biz/ystavoon.php",
+		"/D/srv.lol/rusdoc_biz/ystavavto.php",
+		"/D/srv.lol/rusdoc_biz/ystavgaraj.php",
+		"/D/srv.lol/rusdoc_biz/ystavfonda.php",
+		"/D/srv.lol/rusdoc_biz/tipovoy.php",
+		"/D/srv.lol/rusdoc_biz/rek_block.php",
+		"/D/srv.lol/rusdoc_biz/pdd.php",
+		"/D/srv.lol/supertrump_ru/conf.php",
+		"/D/srv.lol/supertrump_ru/conf.php.example",
+		"/D/srv.lol/video-vision_ru/conf.php",
+		"/D/srv.lol/video-vision_ru/index.php",
+		"/D/srv.lol/video-vision_ru/head_site.php",
+		"/D/srv.lol/video-vision_ru/menu.php",
+		"/D/srv.lol/video-vision_ru/engine/admin_modules/add_category.php",
+		"/D/srv.lol/domofon_info/engine/admin_modules/add_category.php",
+		"/D/srv.lol/domofon_info/conf.php",
+		"/D/srv.lol/video-smart_ru/_engine/admin_modules/add_category.php",
+		"/D/srv.lol/domofon_info/index.php",
+		"/D/srv.lol/video-smart_ru/conf.php",
+		"/D/srv.lol/professia_biz/conf.php",
+		"/D/srv.lol/professia_biz/index.php",
+		"/D/srv.lol/spyrecord_msk_ru/head_site.php",
+		"/D/srv.lol/spyrecord_msk_ru/conf.php",
+		"/D/srv.lol/spyrecord_msk_ru/confCommon.php",
+		"/D/srv.lol/manok_biz/menu.php",
+		"/D/srv.lol/manok_biz/head_site.php",
+		"/D/srv.lol/manok_biz/index.php",
+		"/D/srv.lol/manok_biz/conf.php",
+		"/D/srv.lol/rukofon_ru/conf.php",
+		"/D/srv.lol/rukofon_ru/index.php",
+		"/D/srv.lol/rukofon_ru/style.css",
+		"/D/srv.lol/rukofon_ru/head_site.php",
+		"/D/srv.lol/rukofon_ru/clockPhoneFunctions.php",
+		"/D/srv.lol/rukofon_ru/cart.php",
+		"/D/srv.lol/rukofon_ru/menu.php",
+		"/D/srv.lol/rukofon_ru/cart_handler.php",
+		"/D/srv.lol/rukofon_ru/engine/mysql.php",
+		"/D/srv.lol/rukofon_ru/fixes.php",
+		"/D/srv.lol/rukofon_ru/engine/functions.php",
+		"/D/srv.lol/rukofon_ru/functions.php",
+		"/D/srv.lol/rukofon_ru/statuses.php",
+		"/D/srv.lol/rukofon_ru/a.charset.php",
+		"/D/srv.lol/rukofon_ru/config.php",
+		"/D/srv.lol/rukofon_ru/displayChildren.php",
+		"/D/srv.lol/dictofon_net/menu.php",
+		"/D/srv.lol/dictofon_net/head_site.php",
+		"/D/srv.lol/dictofon_net/contact.php",
+		"/D/srv.lol/dictofon_net/conf.php",
+		"/D/srv.lol/dictofon_net/conf.php.example",
+		"/D/srv.lol/meteostanciya_com/index.php",
+		"/D/srv.lol/meteostanciya_com/cifr_meteo.php",
+		"/D/srv.lol/meteostanciya_com/head_site.php",
+		"/D/srv.lol/milavitsa_net/index.php",
+		"/D/srv.lol/meteostanciya_com/functions.php",
+		"/D/srv.lol/milavitsa_net/head_site.php",
+		"/D/srv.lol/milavitsa_net/functions.php",
+		"/D/srv.lol/milavitsa_net/request.php",
+		"/D/srv.lol/milavitsa_net/conf.php",
+		"/D/srv.lol/meteostanciya_com/conf.php",
+		"/D/srv.lol/meteostanciya_com/confCommon.php",
+		"/D/srv.lol/meteostanciya_com/conf.example.php",
+		"/D/srv.lol/planetariya_net/index.php",
+		"/D/srv.lol/planetariya_net/styles.css",
+		"/D/srv.lol/planetariya_net/head_site.php",
+		"/D/srv.lol/planetariya_net/displayChildrenSelectStyle.php",
+		"/D/srv.lol/planetariya_net/childRequest.php",
+		"/D/srv.lol/planetariya_net/stat-dillerom.php",
+		"/D/srv.lol/planetariya_net/cart2.php",
+		"/D/srv.lol/planetariya_net/conf.php",
+		"/D/srv.lol/planetariya_net/config.php",
+		"/D/srv.lol/planetariya_net/css/n_contacts.css",
+		"/D/srv.lol/video-spline_ru/conf.php",
+		"/D/srv.lol/video-spline_ru/index.php",
+		"/D/srv.lol/sublimeProject/video-spline_ru.sublime-project",
+		"/C/Users/musa.MBTK/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/srv.lol/planetariya_net/yandex/menu.inc.php",
+		"/D/srv.lol/planetariya_net/js/menu.js",
+		"/D/srv.lol/planetariya_net/dostavka/index.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cat_name",
+			"categoryQuery ",
+			"Изменить",
+			"test",
+			"$categoryQuery",
+			"confComm",
+			"cartButton",
+			"cart",
+			"showProd",
+			"productsTabTr",
+			"show_dop_acsess($row['acsess'])",
+			"dopcheck",
+			"add_click_functions",
+			"watch",
+			"show_dop_price",
+			"add_click_functions",
+			"show_db_info",
+			"show_dop_price",
+			"pid",
+			"dopAcsessContent",
+			"inCart",
+			"show_dop_acsess",
+			"show_db",
+			"show_dop_acsess",
+			"class=\"dopcheck\"",
+			"class=\"price\"",
+			"price",
+			"buy-opt",
+			"font-size:16px;",
+			"categoryId",
+			"head_HS",
+			"dillerStatusFull",
+			"test"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/controllers/operator.php",
+					"settings":
+					{
+						"buffer_size": 4841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4308,
+								4308
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 56.0,
+						"translation.y": 2100.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/views/contents/tourPackage_view.php",
+					"settings":
+					{
+						"buffer_size": 4906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								554,
+								571
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/models/all_model.php",
+					"settings":
+					{
+						"buffer_size": 3713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3094,
+								3094
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1478.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"leftme",
+				"_inc/leftmenu_1.php"
+			],
+			[
+				"top",
+				"_inc/topmenu.php"
+			],
+			[
+				"hea",
+				"head_site.php"
+			],
+			[
+				"head",
+				"_inc/head.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"conf",
+				"conf.php.example"
+			],
+			[
+				"conf.",
+				"conf.example.php"
+			],
+			[
+				"head_s",
+				"video-smart_ru/head_site.php"
+			],
+			[
+				"add_category",
+				"video-vision_ru/engine/admin_modules/add_category.php"
+			],
+			[
+				"menu",
+				"video-vision_ru/menu.php"
+			],
+			[
+				"index.php",
+				"video-vision_ru/index.php"
+			],
+			[
+				"conf.php",
+				"video-vision_ru/conf.php"
+			],
+			[
+				"add_ca",
+				"domofon_info/engine/admin_modules/add_category.php"
+			],
+			[
+				"inde",
+				"video-smart_ru/index.php"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"confcom",
+				"spyrecord_msk_ru/confCommon.php"
+			],
+			[
+				"conf.php.e",
+				"spyrecord_msk_ru/conf.php.exapmle"
+			],
+			[
+				"he",
+				"head_site.php"
+			],
+			[
+				"cart",
+				"cart.php"
+			],
+			[
+				"men",
+				"menu.php"
+			],
+			[
+				"clo",
+				"clockPhoneFunctions.php"
+			],
+			[
+				"cart_",
+				"cart_handler.php"
+			],
+			[
+				"mysql",
+				"engine/mysql.php"
+			],
+			[
+				"fix",
+				"fixes.php"
+			],
+			[
+				"func",
+				"engine/functions.php"
+			],
+			[
+				"funct",
+				"functions.php"
+			],
+			[
+				"status",
+				"statuses.php"
+			],
+			[
+				"a.charset",
+				"a.charset.php"
+			],
+			[
+				"dis",
+				"displayChildren.php"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"cont",
+				"contact.php"
+			],
+			[
+				"functions",
+				"milavitsa_net/functions.php"
+			],
+			[
+				"requ",
+				"milavitsa_net/request.php"
+			],
+			[
+				"cifr",
+				"meteostanciya_com/cifr_meteo.php"
+			],
+			[
+				"confc",
+				"meteostanciya_com/confCommon.php"
+			],
+			[
+				"stat-",
+				"stat-dillerom.php"
+			],
+			[
+				"chil",
+				"childRequest.php"
+			],
+			[
+				"cart2",
+				"cart2.php"
+			],
+			[
+				"conf.e",
+				"planetariya_net/conf.php.example"
+			],
+			[
+				"men.php",
+				"yandex/menu.inc.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/srv.lol/sublimeProject/video-vision_ru.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true
+}
