@@ -1,6 +1,6 @@
 <div id="container">
 <br/>
-<form method="POST" action="/crm/index.php/operator/result">
+<form method="POST" action="/index.php/operator/result">
 <table border="0" style="margin:0 auto;">
 <tr>
 <td valign="top" style="padding-right:20px;">

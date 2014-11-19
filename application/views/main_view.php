@@ -8,7 +8,7 @@
 	  </h1>
 	</div>
 	<div>
-     <form method="POST" action="/crm/index.php/operator/tourPackage/">
+     <form method="POST" action="/index.php/operator/tourPackage/">
      	<div id="body">
 		<p>
 			<div class="lines">

@@ -6,7 +6,7 @@ $(document).ready(function() {
 		
 		source: function(request, response) {
 				$.ajax({ 
-				url: "http://"+host+"/crm/index.php/operator/suggestions",
+				url: "http://"+host+"/index.php/operator/suggestions",
 				data: { term:this.element.val(),name:this.element.attr('name') },
 				dataType: "json",
 				type: "POST",
@@ -20,7 +20,7 @@ $(document).ready(function() {
     //$('#status').html('<img src="http://'+host+'/crm/img/loading1.gif" alt="Currently Loading" id="loading" />');
 	/*******Start in SELECT AJAX ******/
 					$.ajax({
-					url: 'http://'+host+'/crm/index.php/operator/fill',
+					url: 'http://'+host+'/index.php/operator/fill',
 					type: 'POST',
 					data: 'term='+event.target.value+'&name=' + this.name,
 					success: function(result) {

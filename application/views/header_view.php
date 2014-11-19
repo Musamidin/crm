@@ -14,7 +14,7 @@
   <script src="//code.jquery.com/ui/1.11.0/jquery-ui.js"></script>
   
   
-<script type="text/javascript" src="/crm/js/generator.js"></script>
+<script type="text/javascript" src="/js/generator.js"></script>
 
 </head>
 <body>
