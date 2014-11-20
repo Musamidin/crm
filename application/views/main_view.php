@@ -78,7 +78,7 @@
 		</p>
 		<input type="hidden" name="datetime" value="<?=date('Y-m-d H:i:s');?>" id="datetime"/>
 		<div class="lines"><input id="reset" name="reset" type="reset" value="Сбросить">
-		<input id="regs" name="regs" type="submit" value="Далее">
+		<input id="regs" name="regs" type="button" value="Далее">
 		</div>
 <div class="lines"><!--?=$info; ?--></div>
 	</div>

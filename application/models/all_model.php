@@ -44,6 +44,26 @@ class All_model extends CI_Model {
 
 	}
 	
+
+	function get_checkUser($id)
+    {
+        $this->db->where('id',$id);
+        $query = $this->db->get('customers_id');
+
+        return $query->num_rows();
+   
+	}
+
+	function get_InsertUser($data = array())
+    {
+$this->db->insert('customers_id',$data);
+
+return $this->db->affected_rows();
+      
+
+   
+	}
+
 	function get_data($table,$id=null)
 	{
 	//$this->db->select();

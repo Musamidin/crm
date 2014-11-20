@@ -85,8 +85,32 @@ class Operator extends CI_Controller {
     echo json_encode($json_array);
 	}
 
-/**************************************************************************/
+/************************************************************************************************/
+function checkUser()
+{
+	$id = $this->input->post('id');
+	
+	$rows = $this->all_model->get_checkUser($id);
+echo $rows;
+}
 
+
+/************************************************************************************************/
+function SaveUser()
+{
+
+	$fio = $this->input->post('fio');
+	$phone = $this->input->post('phone');
+	$email = $this->input->post('email');
+	$country = $this->input->post('country');
+	$city = $this->input->post('city');
+	$customer_type = $this->input->post('customer_type');
+	$rows = $this->all_model->get_InsertUser(array('fio' =>$fio,'phone' =>$phone,'email' =>$email,'country' =>$country,'city' =>$city,'customer_type' =>$customer_type));
+
+echo $rows;
+}
+
+/**************************************************************************/
 
 	function tourPackage()
 	{

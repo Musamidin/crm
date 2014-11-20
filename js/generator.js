@@ -52,9 +52,46 @@ $(document).ready(function() {
 	});		
 /*******END Reset FORM ******/		
 		
+/***check and save users **/  
+$('#regs').on('click',function(){
+		/*******Start in SELECT AJAX ******/
+					$.ajax({
+					url: 'http://'+host+'/index.php/operator/checkUser',
+					type: 'POST',
+					data: 'id='+ $('#id').val(),
+					success: function(result) {
+	
+					if(result == 0){
+					$('#regs').attr('type','button');
+									/*******Start in SELECT AJAX ******/
+									$.ajax({
+									url: 'http://'+host+'/index.php/operator/SaveUser',
+									type: 'POST',
+									data: 'fio='+ $('input[name=fio]').val() +'&phone=' + $('input[name=phone]').val() +'&email=' + $('#email').val()+'&country=' + $('#country').val() +'&city=' + $('#city').val()+'&customer_type=' + $('#userType').val(),
+									success: function(result) {
+									alert(result);
+									if(result == 0){
+									$('#regs').attr('type','button');
+									
+										alert(result);
 
+									}
+									
+									
+									}
+								});
+					/*******END in SELECT AJAX ******/
+			
 
+					}
+					
+					
+					}
+				});
+	/*******END in SELECT AJAX ******/
 
+});
+/***END check and save users **/  
 
 
 
@@ -82,7 +119,7 @@ $('input.tbxc').autocomplete({
     //$('#status').html('<img src="http://'+host+'/crm/img/loading1.gif" alt="Currently Loading" id="loading" />');
 	/*******Start in SELECT AJAX ******/
 					$.ajax({
-					url: 'http://'+host+'/crm/index.php/operator/fillCity',
+					url: 'http://'+host+'/index.php/operator/fillCity',
 					type: 'POST',
 					data: 'term='+event.target.value+'&name=' + this.name,
 					success: function(result) {
