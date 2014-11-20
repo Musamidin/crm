@@ -17,7 +17,7 @@ $(document).ready(function() {
 		},
 		minLength: 2,
         select: function(event) {
-    //$('#status').html('<img src="http://'+host+'/crm/img/loading1.gif" alt="Currently Loading" id="loading" />');
+    //$('#status').html('<img src="http://'+host+'/img/loading1.gif" alt="Currently Loading" id="loading" />');
 	/*******Start in SELECT AJAX ******/
 					$.ajax({
 					url: 'http://'+host+'/index.php/operator/fill',
@@ -69,19 +69,15 @@ $('#regs').on('click',function(){
 									type: 'POST',
 									data: 'fio='+ $('input[name=fio]').val() +'&phone=' + $('input[name=phone]').val() +'&email=' + $('#email').val()+'&country=' + $('#country').val() +'&city=' + $('#city').val()+'&customer_type=' + $('#userType').val(),
 									success: function(result) {
-									alert(result);
-									if(result == 0){
-									$('#regs').attr('type','button');
-									
-										alert(result);
 
-									}
+										if(result == 0){
+										$('#regs').attr('type','button');
+										}
 									
 									
-									}
-								});
-					/*******END in SELECT AJAX ******/
-			
+										}
+									});
+							/*******END in SELECT AJAX ******/		
 
 					}
 					
@@ -105,7 +101,7 @@ $('input.tbxc').autocomplete({
 		
 		source: function(request, response) {
 				$.ajax({ 
-				url: "http://"+host+"/crm/index.php/operator/country",
+				url: "http://"+host+"/index.php/operator/country",
 				data: { term:this.element.val(),name:this.element.attr('name') },
 				dataType: "json",
 				type: "POST",
